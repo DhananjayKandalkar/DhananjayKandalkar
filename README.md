@@ -67,7 +67,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DhananjayKandalkar&theme=highcontrast&sideLabels=CCDD28)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayKandalkar&layout=compact&theme=vision-friendly-dark)](https://github.com/DhananjayKandalkar)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayKandalkar&layout=compact&theme=vision-friendly-dark)](https://github.com/DhananjayKandalkar)-->
 
 <br>
 

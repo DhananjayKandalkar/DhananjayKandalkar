@@ -43,7 +43,7 @@
   <a href="linkedin.com/in/dhananjay-kandalkar-4b819322a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dhananjay.kandalkar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="#">
@@ -76,12 +76,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=DhananjayKandalkar&theme=juicyfresh&private_count=true&title=Commit,Repository)](https://github.com/DhananjayKandalkar/github-profile-trophy)
 
 <br>
+<br>
+<br>
 
-
-
-<!--<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>-->
+##
+### Thank you for visiting profile :pray:

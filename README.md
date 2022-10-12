@@ -15,9 +15,16 @@
 
 ## :man_technologist: About Me
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"> Being passionate developer, Exploring new technologies & building web applications.
-- :rocket:  Learning more about react features, UI frameworks, backend technologies like NodeJS.
+- :rocket:  Learning more about react features, UI frameworks.
 - :seedling:  In my free time, I solve DSA problems and read tech articles.
-- :zap:  Persuing Animations, motion effects.
+- :zap:  Exploring backend technologies like NodeJS, expressJS, mongoDB.
+- :heart: Love to read tech blogs.
+<br>
+
+<br>
+
+## [click to Get to know about my work >>](https://dhananjay-portfolio.vercel.app/)
+
 <br>
 
 ## :hammer_and_wrench: Tech Stack
@@ -46,7 +53,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dhananjay.kandalkar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="#">
+  <a href="https://dhananjay-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=appveyor&logoColor=white"/>
   </a>
   <a href="https://twitter.com/DhananjayK111">

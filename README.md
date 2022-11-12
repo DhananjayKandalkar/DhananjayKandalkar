@@ -23,7 +23,7 @@
 
 <br>
 
-## [click to Get to know about my work >>](https://dhananjay-portfolio.vercel.app/)
+## [Click to know about my work >>](https://dhananjay-portfolio.vercel.app/)
 
 <br>
 
